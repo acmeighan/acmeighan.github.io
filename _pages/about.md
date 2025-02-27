@@ -26,11 +26,11 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Who. A PhD student studying under Dr. Or Dantsker at Indiana University.
+Who. :memo: A PhD student studying under Dr. Or Dantsker.
 
-What. 
+What. :mag_right: Focus on cooperative multi-agent autonomous systems.
 
-Why.
+Why. :mountain: Optimal solutions to complex problems require teamwork. 
 
 <!--
 #Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
